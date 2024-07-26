@@ -8,7 +8,7 @@
 >
 > **这是一个学习用途的仓库，仅用于项目文档记录。仓库所有者不保证内容的完整性。**
 
-## ✨ Features 功能 Image recognition 图像识别
+## ✨ Features 功能
 
 - 🏷️ Image classification 图像分类
 - 🌈 User-friendly interface powered by Streamlit 由 Streamlit 驱动的用户友好界面
