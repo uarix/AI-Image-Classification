@@ -30,7 +30,7 @@
 4. ⚡ ~~Run `pip install -r requirements.txt` to install dependencies~~
    ~~运行 `pip install -r requirements.txt` 安装依赖项~~
 5. 🎭 Run `python start.py` and watch the AI magic unfold! ✨
-   运行 `python start.py`，看着AI魔法徐徐展开！
+   运行 `python start.py`
 
 ## 🤝 Contributing 贡献
 
@@ -41,7 +41,7 @@ This repository is for documentation purposes only and does not accept pull requ
 
 > The Unlicense
 
-This is free and unencumbered software released into the public domain. 
+This is free and unencumbered software released into the public domain.
 这是发布到公共领域的自由软件。
 
 Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
